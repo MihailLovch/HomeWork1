@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Summer</string>
+    <string name="et_name">Enter your name</string>
+    <string name="et_height">Enter your height</string>
+    <string name="et_weight">Enter your weight</string>
+    <string name="et_age">Enter your age</string>
+    <string name="button">Button</string>
+</resources>
