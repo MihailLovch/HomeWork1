@@ -8,6 +8,7 @@ import android.widget.EditText
 import android.widget.TextView
 
 class MainActivity : AppCompatActivity() {
+
     var nameEditText: EditText? = null
     var heightEditText: EditText? = null
     var weightEditText: EditText? = null

@@ -5,4 +5,5 @@
     <string name="et_weight">Enter your weight</string>
     <string name="et_age">Enter your age</string>
     <string name="button">Button</string>
+    <string name="bt_text">Получить гороскоп</string>
 </resources>
